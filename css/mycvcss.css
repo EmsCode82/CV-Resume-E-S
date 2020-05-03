@@ -1,0 +1,15 @@
+table {
+    width: 100%;    
+}
+.sectionhead {
+    color: darkred;
+}
+.bold {
+    font-weight: 600;
+}
+.sans-serif {
+    font-family: sans-serif;
+}
+.orange {
+    color: orange;
+}
